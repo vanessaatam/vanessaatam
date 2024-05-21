@@ -1,7 +1,7 @@
 # Welcome to My Page!
 Here some recent projects that I have worked on:
 
-## Web Development Projects ⌨
+## Web Development Projects 💻
 
 - [Ithaca Applefest Website](https://upgraded-invention-45x5x5r7wjvfjg6v-5500.app.github.dev/)
 - [Mobile Personal Website](https://didactic-fishstick-6qjqjqpg5vvf64r-5500.app.github.dev/)
