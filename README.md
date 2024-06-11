@@ -12,4 +12,6 @@ Here some recent projects that I have worked on:
 - [Students Performance and Demographic/Socioeconomic Factors](studentsgpafactor.pdf)
 - [Urban Environments on Individual Well-being](urbanwellbeing.pdf)
 
-- (https://www.figma.com/design/3A2bf8q4sixuc7Iiq0cLXd/Friendship-Bracelet-Designs?node-id=0-1&t=FYeNLS08AtecruvQ-1)
+  
+## UX Project 🎨
+- [Friendship Watch Protoype](https://www.figma.com/design/3A2bf8q4sixuc7Iiq0cLXd/Friendship-Bracelet-Designs?node-id=0-1&t=FYeNLS08AtecruvQ-1)
