@@ -14,4 +14,4 @@ Here some recent projects that I have worked on:
 
   
 ## UX Project 🎨
-- [Friendship Watch Protoype](https://www.figma.com/design/3A2bf8q4sixuc7Iiq0cLXd/Friendship-Bracelet-Designs?node-id=0-1&t=FYeNLS08AtecruvQ-1)
+- [Friendship Watch Prototype](https://www.figma.com/design/3A2bf8q4sixuc7Iiq0cLXd/Friendship-Bracelet-Designs?node-id=0-1&t=FYeNLS08AtecruvQ-1)
