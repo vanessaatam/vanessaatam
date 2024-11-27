@@ -5,7 +5,7 @@ Here some recent projects that I have worked on:
 
 - [Ithaca Applefest Website](https://super-duper-space-computing-machine-v6r5rgx5x636pgq-8080.app.github.dev/)
 - [Mobile Personal Website](https://didactic-fishstick-6qjqjqpg5vvf64r-5500.app.github.dev/)
-- [KASA Club Website](https://damp-spirit-qjwjwjxqv552xvrg-5500.app.github.dev/)
+- [KASA Club Website](https://petrifying-werewolf-45x5x5r7qw6f765j-5500.app.github.dev/)
   
 ## Data Science Projects 📊
 
